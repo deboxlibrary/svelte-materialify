@@ -1,0 +1,2 @@
+.example.svelte-1bnr176{margin-bottom:36px;border-radius:4px;border:thin solid var(--theme-dividers)}.example-toolbar.svelte-1bnr176{background-color:var(--theme-app-bar)}
+.playground.svelte-1chewvo{border:thin solid var(--theme-dividers)}.playground__toolbar.svelte-1chewvo{display:flex;background-color:var(--theme-app-bar);align-items:center;height:44px}.playground__content.svelte-1chewvo{padding:6px;min-height:100px;height:calc(100% - 44px);width:100%;position:relative}.playground__content.svelte-1chewvo:not(.block){display:flex;align-items:center;justify-content:center}

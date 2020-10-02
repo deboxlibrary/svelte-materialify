@@ -1,0 +1,1 @@
+var e=(e,t={})=>{const n={include:[],...t};function c({target:t}){e.contains(t)&&!n.include.some(e=>t.isSameNode(e))||e.dispatchEvent(new CustomEvent("clickOutside"))}return document.addEventListener("click",c,{passive:!0}),{destroy(){document.removeEventListener("click",c)}}};export{e as C};
